@@ -1,0 +1,1 @@
+﻿print('that is a message from python script')
